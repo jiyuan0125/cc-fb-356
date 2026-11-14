@@ -1,0 +1,29 @@
+{
+ "cutoff_ts": "2026-05-12T12:00:00Z",
+ "targets": {
+  "CTR-01": "shard-01",
+  "CTR-02": "shard-01",
+  "CTR-03": "shard-05",
+  "CTR-04": "shard-02",
+  "CTR-05": "shard-02",
+  "CTR-06": "shard-06",
+  "CTR-07": "shard-03",
+  "CTR-08": "shard-03",
+  "CTR-09": "shard-06",
+  "CTR-10": "shard-03",
+  "CTR-11": "shard-04",
+  "CTR-12": "shard-04",
+  "CTR-13": "shard-05",
+  "CTR-14": "shard-06",
+  "CTR-15": "shard-04",
+  "CTR-16": "shard-05",
+  "CTR-17": "shard-05",
+  "CTR-18": "shard-06",
+  "CTR-19": "shard-01",
+  "CTR-20": "shard-02",
+  "CTR-21": "shard-01",
+  "CTR-22": "shard-02",
+  "CTR-23": "shard-03",
+  "CTR-24": "shard-04"
+ }
+}
